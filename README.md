@@ -24,3 +24,12 @@ Code created during my H09B tutorials for COMP2521 in 23T2
 - Recursion Q3: Checking a list is sorted
 - Recursion Q6: Different list representation
 - Recursion Q7: Fibonnaci and limitations in recursion (no code)
+
+## Week 3: Time Complexity
+
+- Two Loops
+- Q1: Palindrome
+- Q2: Two Sum
+- Q4: Binary Conversion
+- Q6: Print Permutation
+- Complexity Test
