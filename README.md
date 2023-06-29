@@ -43,3 +43,13 @@ Code created during my H09B tutorials for COMP2521 in 23T2
 - Q5: Find height
 - Q6: Count internal nodes
 - Q8: Count Greater than val
+
+## Week 5: AVL Trees, Graph Basics
+
+- AVL Trees Q1: Inserting into an AVL Tree
+- Graphs Q1: Graph Terminology
+- Graphs Q2: Graph Representations
+- Graphs Q3: Adjacency Matrices
+- Graphs Q4: Facebook as a graph
+- Graphs Q5: Road map as a graph
+- AVL Trees Q2: Creating an AVL Tree
