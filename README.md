@@ -53,3 +53,9 @@ Code created during my H09B tutorials for COMP2521 in 23T2
 - Graphs Q4: Facebook as a graph
 - Graphs Q5: Road map as a graph
 - AVL Trees Q2: Creating an AVL Tree
+
+## Week 7: Graphs and Graph Traversal
+
+- Graph Traversal: Breadth First Search & Depth First Search
+- Graph Theory Q1: More Terminology
+- Graph Theory Q3: Euler / Hamiltonian Paths & Circuits
