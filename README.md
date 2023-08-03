@@ -68,3 +68,20 @@ Code created during my H09B tutorials for COMP2521 in 23T2
 - Q4: Shortest Path (Dijkstra's Algorithm)
 - Q5: Minimum Spanning Tree (Kruskal's Algorithm)
 - Q6: Minimum Spanning Tree (Prim's Algorithm)
+
+## Week 9: Sorting Algorithms
+
+- Q1: Sort Terminology
+- Q2: Stable Sorting
+- Q4: Sorts (Bubble, Insertion, and Selection Sort)
+- Q5: Merge Sort
+- Q6: Quick Sort
+
+## Week 10: Hashing, Heaps and Tries
+
+- Heaps Q1: Heap as Binary Tree
+- Heaps Q2: Heap as Array
+- Hashing Q3: Hash Collisions
+- Tries Q1: Tries
+- Tries Q2 & Q4: Tries
+- Kahoot
